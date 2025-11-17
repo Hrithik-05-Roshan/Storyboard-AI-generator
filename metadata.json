@@ -1,0 +1,5 @@
+{
+  "name": "Storyboard AI Generator",
+  "description": "An application that takes a script as input and generates a sequence of storyboard images using Gemini. It first analyzes the script to create descriptive prompts for each scene, then generates an image for each prompt.",
+  "requestFramePermissions": []
+}
